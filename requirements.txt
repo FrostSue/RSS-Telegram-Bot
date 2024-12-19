@@ -1,0 +1,5 @@
+https://github.com/KurimuzonAkuma/pyrogram/archive/dev.zip
+TgCrypto
+feedparser
+APScheduler
+configparser
